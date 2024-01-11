@@ -1,1 +1,1 @@
-Scheduler Dispatch ALgorithms in C
+Scheduler Dispatch Algorithms in C
